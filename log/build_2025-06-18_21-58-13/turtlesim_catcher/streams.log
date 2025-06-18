@@ -1,0 +1,25 @@
+[0.900s] Invoking command in '/home/harry/turtlesim_catcher/src/turtlesim_catcher': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/harry/turtlesim_catcher/build/turtlesim_catcher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/turtlesim_catcher/install/turtlesim_catcher/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_catcher build --build-base /home/harry/turtlesim_catcher/build/turtlesim_catcher/build install --record /home/harry/turtlesim_catcher/build/turtlesim_catcher/install.log --single-version-externally-managed install_data
+[1.204s] running egg_info
+[1.220s] writing ../../build/turtlesim_catcher/turtlesim_catcher.egg-info/PKG-INFO
+[1.221s] writing dependency_links to ../../build/turtlesim_catcher/turtlesim_catcher.egg-info/dependency_links.txt
+[1.221s] writing entry points to ../../build/turtlesim_catcher/turtlesim_catcher.egg-info/entry_points.txt
+[1.222s] writing requirements to ../../build/turtlesim_catcher/turtlesim_catcher.egg-info/requires.txt
+[1.222s] writing top-level names to ../../build/turtlesim_catcher/turtlesim_catcher.egg-info/top_level.txt
+[1.254s] reading manifest file '../../build/turtlesim_catcher/turtlesim_catcher.egg-info/SOURCES.txt'
+[1.255s] writing manifest file '../../build/turtlesim_catcher/turtlesim_catcher.egg-info/SOURCES.txt'
+[1.255s] running build
+[1.255s] running build_py
+[1.256s] copying turtlesim_catcher/turtle_spawner.py -> /home/harry/turtlesim_catcher/build/turtlesim_catcher/build/lib/turtlesim_catcher
+[1.257s] running install
+[1.262s] running install_lib
+[1.281s] copying /home/harry/turtlesim_catcher/build/turtlesim_catcher/build/lib/turtlesim_catcher/turtle_spawner.py -> /home/harry/turtlesim_catcher/install/turtlesim_catcher/lib/python3.12/site-packages/turtlesim_catcher
+[1.281s] byte-compiling /home/harry/turtlesim_catcher/install/turtlesim_catcher/lib/python3.12/site-packages/turtlesim_catcher/turtle_spawner.py to turtle_spawner.cpython-312.pyc
+[1.283s] running install_data
+[1.283s] running install_egg_info
+[1.305s] removing '/home/harry/turtlesim_catcher/install/turtlesim_catcher/lib/python3.12/site-packages/turtlesim_catcher-0.0.0-py3.12.egg-info' (and everything under it)
+[1.305s] Copying ../../build/turtlesim_catcher/turtlesim_catcher.egg-info to /home/harry/turtlesim_catcher/install/turtlesim_catcher/lib/python3.12/site-packages/turtlesim_catcher-0.0.0-py3.12.egg-info
+[1.307s] running install_scripts
+[1.475s] Installing turtle_controller script to /home/harry/turtlesim_catcher/install/turtlesim_catcher/lib/turtlesim_catcher
+[1.476s] Installing turtle_spawner script to /home/harry/turtlesim_catcher/install/turtlesim_catcher/lib/turtlesim_catcher
+[1.476s] writing list of installed files to '/home/harry/turtlesim_catcher/build/turtlesim_catcher/install.log'
+[1.552s] Invoked command in '/home/harry/turtlesim_catcher/src/turtlesim_catcher' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/harry/turtlesim_catcher/build/turtlesim_catcher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harry/turtlesim_catcher/install/turtlesim_catcher/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_catcher build --build-base /home/harry/turtlesim_catcher/build/turtlesim_catcher/build install --record /home/harry/turtlesim_catcher/build/turtlesim_catcher/install.log --single-version-externally-managed install_data

@@ -1,0 +1,26 @@
+[0.016s] Invoking command in '/home/harry/turtlesim_catcher/build/turtle_buildup': AMENT_PREFIX_PATH=/home/harry/turtlesim_catcher/install/turtlesim_catcher:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/harry/ros2_workspace/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/harry/turtlesim_catcher/install/turtlesim_catcher/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/harry/turtlesim_catcher/build/turtle_buildup -- -j10 -l10
+[0.049s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.286s] -- Configuring done (0.2s)
+[0.292s] -- Generating done (0.0s)
+[0.294s] -- Build files have been written to: /home/harry/turtlesim_catcher/build/turtle_buildup
+[0.324s] Invoked command in '/home/harry/turtlesim_catcher/build/turtle_buildup' returned '0': AMENT_PREFIX_PATH=/home/harry/turtlesim_catcher/install/turtlesim_catcher:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/harry/ros2_workspace/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/harry/turtlesim_catcher/install/turtlesim_catcher/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/harry/turtlesim_catcher/build/turtle_buildup -- -j10 -l10
+[0.336s] Invoking command in '/home/harry/turtlesim_catcher/build/turtle_buildup': AMENT_PREFIX_PATH=/home/harry/turtlesim_catcher/install/turtlesim_catcher:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/harry/ros2_workspace/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/harry/turtlesim_catcher/install/turtlesim_catcher/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/harry/turtlesim_catcher/build/turtle_buildup
+[0.344s] -- Install configuration: ""
+[0.345s] -- Up-to-date: /home/harry/turtlesim_catcher/install/turtle_buildup/share/turtle_buildup/launch
+[0.345s] -- Up-to-date: /home/harry/turtlesim_catcher/install/turtle_buildup/share/turtle_buildup/launch/turtlesim_catcher.launch.xml
+[0.345s] -- Installing: /home/harry/turtlesim_catcher/install/turtle_buildup/share/ament_index/resource_index/package_run_dependencies/turtle_buildup
+[0.345s] -- Up-to-date: /home/harry/turtlesim_catcher/install/turtle_buildup/share/ament_index/resource_index/parent_prefix_path/turtle_buildup
+[0.345s] -- Up-to-date: /home/harry/turtlesim_catcher/install/turtle_buildup/share/turtle_buildup/environment/ament_prefix_path.sh
+[0.345s] -- Up-to-date: /home/harry/turtlesim_catcher/install/turtle_buildup/share/turtle_buildup/environment/ament_prefix_path.dsv
+[0.345s] -- Up-to-date: /home/harry/turtlesim_catcher/install/turtle_buildup/share/turtle_buildup/environment/path.sh
+[0.345s] -- Up-to-date: /home/harry/turtlesim_catcher/install/turtle_buildup/share/turtle_buildup/environment/path.dsv
+[0.345s] -- Up-to-date: /home/harry/turtlesim_catcher/install/turtle_buildup/share/turtle_buildup/local_setup.bash
+[0.345s] -- Up-to-date: /home/harry/turtlesim_catcher/install/turtle_buildup/share/turtle_buildup/local_setup.sh
+[0.345s] -- Up-to-date: /home/harry/turtlesim_catcher/install/turtle_buildup/share/turtle_buildup/local_setup.zsh
+[0.345s] -- Up-to-date: /home/harry/turtlesim_catcher/install/turtle_buildup/share/turtle_buildup/local_setup.dsv
+[0.345s] -- Up-to-date: /home/harry/turtlesim_catcher/install/turtle_buildup/share/turtle_buildup/package.dsv
+[0.345s] -- Up-to-date: /home/harry/turtlesim_catcher/install/turtle_buildup/share/ament_index/resource_index/packages/turtle_buildup
+[0.345s] -- Up-to-date: /home/harry/turtlesim_catcher/install/turtle_buildup/share/turtle_buildup/cmake/turtle_buildupConfig.cmake
+[0.345s] -- Up-to-date: /home/harry/turtlesim_catcher/install/turtle_buildup/share/turtle_buildup/cmake/turtle_buildupConfig-version.cmake
+[0.345s] -- Installing: /home/harry/turtlesim_catcher/install/turtle_buildup/share/turtle_buildup/package.xml
+[0.347s] Invoked command in '/home/harry/turtlesim_catcher/build/turtle_buildup' returned '0': AMENT_PREFIX_PATH=/home/harry/turtlesim_catcher/install/turtlesim_catcher:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/harry/ros2_workspace/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/harry/turtlesim_catcher/install/turtlesim_catcher/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/harry/turtlesim_catcher/build/turtle_buildup
