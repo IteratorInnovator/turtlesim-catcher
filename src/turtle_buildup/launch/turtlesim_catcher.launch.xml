@@ -1,6 +1,0 @@
-<launch>
-    <!-- Spawn the master turtle -->
-    <node pkg="turtlesim" exec="turtlesim_node" /> 
-    <!-- Start the turtle spawner node -->
-    <node pkg="turtlesim_catcher" exec="turtle_spawner" />
-</launch>

@@ -1,0 +1,3 @@
+turtle_spawner_node:
+  ros__parameters:
+    spawn_rate: 0.75
