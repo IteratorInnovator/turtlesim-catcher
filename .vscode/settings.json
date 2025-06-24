@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/harry/turtlesim_catcher/install/turtlesim_catcher/lib/python3.12/site-packages",
+        "/home/harry/turtlesim_catcher/install/custom_interfaces/lib/python3.12/site-packages",
+        "/home/harry/ros2_workspace/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/harry/ros2_workspace/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/harry/turtlesim_catcher/install/turtlesim_catcher/lib/python3.12/site-packages",
+        "/home/harry/turtlesim_catcher/install/custom_interfaces/lib/python3.12/site-packages",
+        "/home/harry/ros2_workspace/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/harry/ros2_workspace/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
